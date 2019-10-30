@@ -1,0 +1,23 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is my website
+
+you can learn about me [here](about.html)
+![](https://media.giphy.com/media/h5YJdPfkSbcRO/source.gif)
+
+# adding links
+
+I use [google](https://www.google.com/) a lot to do ds hw
+
+## lets add an image
+
+heres me+banff:
+
+![](banff.JPG) 
