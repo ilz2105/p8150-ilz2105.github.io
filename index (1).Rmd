@@ -7,17 +7,10 @@ output:
     theme: cerulean
 ---
 
-# This is my website
+This is my website for Homework 4!
 
-you can learn about me [here](about.html)
-![](https://media.giphy.com/media/h5YJdPfkSbcRO/source.gif)
 
-# adding links
+You can learn more about me [here](about.html)
 
-I use [google](https://www.google.com/) a lot to do ds hw
+You can see my experience [here](professional.html)
 
-## lets add an image
-
-heres me+banff:
-
-![](banff.JPG) 
